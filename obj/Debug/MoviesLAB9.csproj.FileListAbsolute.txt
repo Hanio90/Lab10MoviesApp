@@ -1,0 +1,7 @@
+C:\Users\hanio\source\repos\MoviesLAB9\MoviesLAB9\bin\Debug\MoviesLAB9.exe.config
+C:\Users\hanio\source\repos\MoviesLAB9\MoviesLAB9\bin\Debug\MoviesLAB9.exe
+C:\Users\hanio\source\repos\MoviesLAB9\MoviesLAB9\bin\Debug\MoviesLAB9.pdb
+C:\Users\hanio\source\repos\MoviesLAB9\MoviesLAB9\obj\Debug\MoviesLAB9.csprojResolveAssemblyReference.cache
+C:\Users\hanio\source\repos\MoviesLAB9\MoviesLAB9\obj\Debug\MoviesLAB9.csproj.CoreCompileInputs.cache
+C:\Users\hanio\source\repos\MoviesLAB9\MoviesLAB9\obj\Debug\MoviesLAB9.exe
+C:\Users\hanio\source\repos\MoviesLAB9\MoviesLAB9\obj\Debug\MoviesLAB9.pdb
